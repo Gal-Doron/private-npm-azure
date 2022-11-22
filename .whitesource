@@ -2,7 +2,7 @@
   "settingsInheritedFrom": "Gal-Doron/whitesource-config@main",
   "hostRules": [
 {
-"matchHost": "https://pkgs.dev.azure.com/angierWS/_packaging/AngieNPM/npm/registry/ ",
+"matchHost": "https://pkgs.dev.azure.com/angierWS/_packaging/AngieNPM/npm/registry/",
 "hostType": "npm",
 "userName": "angierWS",
 "encrypted": {
