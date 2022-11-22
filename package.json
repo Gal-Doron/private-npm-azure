@@ -5,6 +5,6 @@
   "main": "lib/index.js",
   "license": "MIT",
   "dependencies": {
-    "randommm": "1.0.0"
+    "angie-party": "0.0.3"
   }
 }
