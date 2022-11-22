@@ -2,11 +2,11 @@
   "settingsInheritedFrom": "Gal-Doron/whitesource-config@main",
   "hostRules": [
 {
-"matchHost": "https://sttr.jfrog.io/artifactory/api/npm/gal-sep-test/",
+"matchHost": "https://pkgs.dev.azure.com/angierWS/_packaging/AngieNPM/npm/registry/ ",
 "hostType": "npm",
-"userName": "g.d.doron@gmail.com",
+"userName": "angierWS",
 "encrypted": {
-"password": "wcBMA8xOaBJvzJNbAQf/Rgcy02EodWcDyr/WapF0fobazx+q0h+0Ik3mTTuNdbTTQ1GZptQF/idaP1VqV+05D+qxfgZ6dRp+oAWDQBn+6zs5OzXOvSM2GNY4R20yz6jum1gDxVPn2Vd2hOLkKcyTApMsu5BBEgphhjePCEmwqzAISB3OkDEwDjhnzTbj4hYjzdvx6BoV23lzfxvt+Wnnr39SJ88kj35Fh9YQaYHPrI/IjXwHj8FdFZuOl+V5wXu/h3HKbZEln6mm96Gul8YPlCqfg9I1h45+16MV+iHRoNH8Vj7fpu1XUAx3W1bViH2ASdD2DJ+JXzn24uSv6Rl8aO5kPI9FvF83JQkMvq0UrNJbAdiKAxPl+4TFNBdOFT8Tl7DezpZaJtoAlSj8CQKYvrxVuqp/2+c21LA/3CwEfot/UhLSDAR5WDva4NvuKhm7/T3plcjuYr5rnslpk3zA5TxgvBqoNzIjWQ7gww"
+"token": "wcBMA8xOaBJvzJNbAQgAh7BKm+B+L2OfrP74zLOWy0hw6vGLFmp3yguefiuX9E0zKuLChmCywyfaW9sm8IFziD3d9MacagctbHv3zvaOCqk30qXo022tnu8G1EPhbUgdmIMYt+zt6unTk8CPo7txRgoJNG2J7jbAaDbkelMKPa3FZPm7EWcyA4k94BE+kt7ldkYCHT5cVPM7bzDLP0tuoQ324T0LwSZg/5SV5a3xh/Fy9t+MqfzbfByJpoCgTZtYJpwmR0AuTNUWWxczHH/xf4ilB54g03tex1Yz4kfIPt6BXRrkX0dLQn7utfIxsJ1fTppGEbOlhHwEc9hs7fdY8SOpXV6yzZAsYBwVTioKxdKYAdiEJ8gLn+JFnkQfN0+B3O4Tk2kOHWyIf0KdC2RvqsXgd+Q80thyT0a9cN2jgo9cVmhlNecyBEJCdanuuOIPRsj07YIAl92BBWF+wNfgWTyYXw+VHkJxYm5UWAUl9gkMMvkBJNkLGMwH1tc8MjDxMOldJxp7FDUhvzO0x2pkJwW11o1fIVZv1K8nIsOc6nzWnJCRK1DbVaA"
 }
 }
 ]
